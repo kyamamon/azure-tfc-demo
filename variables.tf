@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  default = "myTFResourceGroup-changed"
+  default = "myTFResourceGroup"
 }
 
 variable "azure_location" {
